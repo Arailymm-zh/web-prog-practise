@@ -1,0 +1,23 @@
+<DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charest="utf-8">
+            <title>while</title>
+             </head>
+             <body>
+                 
+                 <script>
+                 var chislo = 2;
+                 var stepen = 10;
+                 var result = 10;
+                 var 1 = 0;
+                 while(i < stepen){ 
+                     result= result*chislo;
+                     i++;
+                 }
+                 
+                 console.log(result)
+                 
+                  </script>
+                 </body>
+                  </html>
